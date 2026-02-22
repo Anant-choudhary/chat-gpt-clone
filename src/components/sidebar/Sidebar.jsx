@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ChatGptLogo from "../../assets/OpenAi-logo.svg?react";
+import ChatGptLogo from "../../assets/OpenAI-logo.svg?react";
 import UserInfo from "./UserInfo";
 import SidebarMini from "./sidebarMini";
 

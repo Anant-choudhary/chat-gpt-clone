@@ -1,4 +1,4 @@
-import ChatGptLogo from "../../assets/OpenAi-logo.svg?react";
+import ChatGptLogo from "../../assets/OpenAI-logo.svg?react";
 
 export default function SidebarMini({ onNewChat , setIsCollapsed, CollapseIcon }) {
   return (
